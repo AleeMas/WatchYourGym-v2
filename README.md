@@ -1,4 +1,4 @@
-# WatchYourGym-v2# WatchYourGym
+# WatchYourGym
 
 App iOS (SwiftUI, iOS 17+) per creare le proprie schede di allenamento ed eseguirle con timer di recupero.
 

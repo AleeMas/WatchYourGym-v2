@@ -1,0 +1,56 @@
+{
+  "name": "Push Day",
+  "type": "tab",
+  "rounds": 1,
+  "restBetweenExercises": 120,
+  "exercises": [
+    {
+      "name": "Bench press",
+      "muscle": "Chest",
+      "weightKg": 60,
+      "sets": 4,
+      "reps": 10,
+      "repsType": "reps",
+      "restSeconds": 90,
+      "notes": "Slow on the way down"
+    },
+    {
+      "name": "Incline dumbbell press",
+      "muscle": "Chest",
+      "weightKg": 22,
+      "sets": 3,
+      "reps": 10,
+      "repsType": "reps",
+      "restSeconds": 90,
+      "notes": "",
+      "superset": {
+        "name": "Push up",
+        "muscle": "Chest",
+        "weightKg": 0,
+        "reps": 15,
+        "repsType": "reps",
+        "notes": "To failure on the last set"
+      }
+    },
+    {
+      "name": "Shoulder press",
+      "muscle": "Shoulders",
+      "weightKg": 20,
+      "sets": 3,
+      "reps": 12,
+      "repsType": "reps",
+      "restSeconds": 60,
+      "notes": ""
+    },
+    {
+      "name": "Plank",
+      "muscle": "Core",
+      "weightKg": 0,
+      "sets": 3,
+      "reps": 45,
+      "repsType": "seconds",
+      "restSeconds": 60,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Full Body Circuit",
+  "type": "circuit",
+  "rounds": 4,
+  "restBetweenExercises": 90,
+  "exercises": [
+    {
+      "name": "Squat",
+      "muscle": "Legs",
+      "weightKg": 0,
+      "sets": 1,
+      "reps": 15,
+      "repsType": "reps",
+      "restSeconds": 20,
+      "notes": ""
+    },
+    {
+      "name": "Push up",
+      "muscle": "Chest",
+      "weightKg": 0,
+      "sets": 1,
+      "reps": 12,
+      "repsType": "reps",
+      "restSeconds": 20,
+      "notes": ""
+    },
+    {
+      "name": "Mountain climbers",
+      "muscle": "Core",
+      "weightKg": 0,
+      "sets": 1,
+      "reps": 40,
+      "repsType": "seconds",
+      "restSeconds": 20,
+      "notes": "Keep the core tight"
+    }
+  ]
+}
